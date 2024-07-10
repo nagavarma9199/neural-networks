@@ -15,6 +15,6 @@ ICP2.pynb -  It contains three programs
               3)It reads heights (inches.) of customers into a list and convert these heights to centimeters in a separate list using:
                 1) Nested Interactive loop.
                 2) List comprehensions
- ------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- 
+ ICP3_ques1.pynb - 
