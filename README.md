@@ -1,4 +1,9 @@
-# neural-networks
+# neural-networks  
+
+Name : Naga rohith varma Penumetsa
+ID : 700756263
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ICP1.pynb - It contains the basic codes for reverse of a string , arthimetic operations, replacement of a word in a sentence, using loops.
 
